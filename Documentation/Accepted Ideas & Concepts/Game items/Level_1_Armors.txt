@@ -1,0 +1,54 @@
+Level 1 Armors
+
+Warrior
+
+Light iron chainmail
+ - 4 Defense
+ - 2 Mdef
+ - Desc; A light chainmail 
+
+Light iron legs
+ - 2 Defense
+ - 1 Mdef
+ - Desc; A Light iron leg set
+
+Light iron sheild
+ - 3 Defense
+ - 0 Mdef
+ - Desc; A Small iron sheild
+
+Light iron Boots
+ - 2 Defense
+ - 1 Mdef
+ - Desc; Light iron boots
+
+Light iron helm
+ - 2 Defense
+ - 1 Mdef
+ - Desc; Light iron helm 
+
+Mage
+
+Robe top
+ - 2 defense
+ - 4 Mdef
+ - Desc; Worn out robes
+
+Robe bottom
+ - 1 defense 
+ - 2 mdef
+ - Desc; Worn out robe bottoms
+
+Hood
+ - 1 defense
+ - 2 Mdef
+ - Desc; covers your head
+
+Off-hand spell sheild
+ - 0 defense
+ - 3 mdef
+ - Desc; Protects you from Magical attacks
+
+
+
+

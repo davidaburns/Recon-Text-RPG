@@ -1,0 +1,16 @@
+Ok so i thought that it might be a good idea that before you commit your source
+that you go and copy all of the current source (Before Commiting) into the Saved 
+Source Code folder and then add your source into the Project Vanquish source folder
+
+E.x.
+You made changes to say VanquishEngine.cpp and a few changes in the Map.cpp
+
+Copy all the content in Source Code->Project Vanquish Alpha v. 0.1.3.7
+into Source Code->Saved Source Code
+
+And then change the name of the Save Source Code to the current most updated revision (Before you commit)
+
+then commit all of your edited source code into 
+Source Code->Project Vanquish Alpha v.0.1.3.7
+
+thank you ~Dave

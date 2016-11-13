@@ -1,0 +1,15 @@
+Types of weapons like swords (daggers/knives included), spears, axes for physical attackers, wands, staffs, and books for magical attackers.
+
+Type		Physical damage		Magical damage
+
+Swords		Fair			Below fair
+
+Spears		Good			Bad
+
+Axes		Excellent			Horrible
+
+Wands		Below fair		Fair
+
+Staffs		Bad			Good
+
+Books		Horrible			Excellent

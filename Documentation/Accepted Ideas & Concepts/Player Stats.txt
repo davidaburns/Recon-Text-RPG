@@ -1,0 +1,23 @@
+HP - Hit Points, basically your life. If your hp reaches 0 then you die or are K/O.
+
+MP - Magic Points, a currency like stat were you use MP in order to cast spells 
+and abillities, if your MP reaches 0 then you can not use any more abillities 
+that require MP.
+
+Strength - determines how powerful your attacks with weapons or fists will be.
+
+Defense - determines how much an attack on you is reduced by.
+
+Magic Strength - same as strength, only it involves magic attacks and abillities.
+
+Magic Defense - same as defense, only it determines how much magic attacks on 
+you are reduced.
+
+
+
+~**Somebody please put in a description for Agil, Intel, and Luck, thank you**~
+Agility  - Increase dodge/parry rate and or Attack speed as the skill ranks up
+
+Intellegence - Chance to critical hit with magic increased, slightly increases damage
+
+Luck - Increases's your chance of a critical hit and less chance of a miss

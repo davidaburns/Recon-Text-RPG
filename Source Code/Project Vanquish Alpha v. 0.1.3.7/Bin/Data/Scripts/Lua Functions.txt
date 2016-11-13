@@ -1,0 +1,57 @@
+A list of the Lua functions available to make Lua scripts.
+
+~GameFunctions~
+
+DialogText()
+
+-Takes one string argument as the text to output on the screen
+in dialog format (Outputting one letter at a time to emulate a conversation)
+	
+	E.x. DialogText("Hello, my name is David\n")
+
+DisplayMenu()
+
+-Takes multiple string argument as the menu items. It outputs the arguments in a 
+menu format.
+
+	E.x. DisplayMenu("Buy", "Sell")
+	
+	Outputs:
+		. Buy
+		. Sell
+
+MenuSelect()
+
+-Gives the user the ability to select things in the menu displayed. It returns the value of what it is pointing at (0, 1, 2, etc.). Afterwords, use if statements to check where the pointer was pointed to.
+	E.x. a = MenuSelect()
+
+ListShopItems()
+
+-Lists the items the shop currently has.
+	E.x. ListShopItems()
+
+AddItemInventory()
+
+-Adds the item to the player's inventory that matches that ID. This function may change to something more flexable.
+	E.x. AddItemInventory(1)
+
+PlayerName()
+
+-Outputs the player's name. Must be called outside of the DialogText function.
+	E.x. PlayerName()
+
+AddQuest()
+-Takes in a quest's ID string and adds it to the quests the player has stored up.
+	E.x. AddQuest("6000")
+
+Fight()
+-Takes a monster's ID string to fight that monster. The 'monster' can be an agressive NPC.
+	E.x. Fight("3000")
+//Console Functions
+//Self explainatory
+int Print("...")
+int ClearScreen()
+int ClearDialog()
+int SetScreenCursorPosition(#, #)
+int GetScreenCursorX()
+int GetScreenCursorY()

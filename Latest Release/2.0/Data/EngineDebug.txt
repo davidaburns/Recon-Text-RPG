@@ -1,0 +1,18 @@
+Engine Debug File Opened.
+
+Engine Initation Started...
+	~Title set to: Project Vanquish Alpha v0.2.0
+	~Cursor set to: Invisible
+	~Loading Default Map: NPCWarpTest...
+	~NPCWarpTest Loaded Successfully!
+Engine Initiation Finished
+
+Lua Initiation Started...
+	~Opening Lua
+	~Registering Lua Functions
+Lua Initiation Finished!
+
+Engine Entered CleanUp()
+Engine Finished CleanUp()
+
+Closing Engine Debug File...

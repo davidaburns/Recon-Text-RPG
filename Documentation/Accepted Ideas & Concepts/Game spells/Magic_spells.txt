@@ -1,0 +1,27 @@
+Level 1 spells
+-White Magic
+	1. Heal Lv1. – Heals the target for a small amount
+
+-Black Magic
+	1. Fire Lv1. - Atks enemy with low level fire dmg
+	2. Ice Lv1. - Atks enemy with low level ice dmg
+	3. Lightning Lv1. - Atks enemy with low level lightning damage
+
+Level 3 spells
+-white Magic
+        1. Cure Lv1 - Removes 1 status (posion,sleep,hex's) 
+
+-Black Magic
+        1. Fire Bolt Lv1 - Strike the target dealing fire dmg
+        2. Ice armor Lv1 - Raise's your phy def by a small amount for a period of time
+
+Level 4 Spells 
+-White magic
+        1. Heal Lv2 - Heals target for a larger amount then Lv1
+
+
+Level 5 Spells
+-Black Magic 
+        1. Lightning bolt Lv1 - Strike the target 2 times dealing small lightning dmg
+        2. Frost Driver Lv1 - 50% chance of giving the target "freeze" status, deals small ice dmg
+

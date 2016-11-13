@@ -1,0 +1,16 @@
+[START WARP]
+[NPCWarpTest]
+[NPCWarpTest]
+23
+9
+4
+10
+[END WARP]
+[START WARP]
+[NPCWarpTest]
+[EmptyRoom]
+1
+1
+2
+2
+[END WARP]

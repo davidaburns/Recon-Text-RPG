@@ -1,0 +1,14 @@
+[START SHOP]
+[ShopTest]
+TestShop
+TestShop.lua
+6
+6
+[END SHOP]
+[START SHOP]
+[ShopTest]
+TestShop2
+TestShop2.lua
+10
+6
+[END SHOP]

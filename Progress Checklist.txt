@@ -1,0 +1,30 @@
+Completed:     Incompleted:
+        +                           -
+
++ Working data organizer/file manager.
++ Monsters. (By data organizer)
++ Monster Loader.
++ Weapons. (By data organizer)
++ Weapon Loader.
++ Armor. (By data organizer)
++ Armor Loader.
++ Items. (By data organizer)
++ Item Loader.
++ Scrolling map.
+- Maps
+- Storyline
+- Side quests
+<<<<<<< .mine
++ Large maps supported.
++ Map editor changes.
+=======
++ Large maps supported.
++ Map editor changes.
+>>>>>>> .r250
+- Shops.
+- Spells.
+- Magic Abilities. (Based on level and equipment.)
+- Player Save/Load.
+- Official Maps.
+- Script/Storyline
+- Finish Engine

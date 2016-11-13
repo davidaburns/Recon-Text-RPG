@@ -1,0 +1,15 @@
+[NPC START]
+[NPCWarpTest]
+TestNpc
+TestNpc.lua
+10
+7
+[NPC END]
+
+[NPC START]
+[NPCWarpTest]
+TestNpc2
+TestNpc2.lua
+12
+7
+[NPC END]

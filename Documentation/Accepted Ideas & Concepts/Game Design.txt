@@ -1,0 +1,59 @@
+
+
+
+
+
+“Vanquish”
+By: David Burns (Makaze)
+
+
+
+Introduction
+      It has been 2000 years after the war of age, the portals connecting 
+the two worlds of Eiden and together have been destroyed and lost since then. 
+No one has even found the ruins of them. Until one day, The evil Emperor of Sage 
+found the location of a new portal. Knowing what terrors lye beyond activating 
+the portals the emperor tries with all of his power to find and activate that 
+portal and unleash war and terror among the lands of Eiden.
+ 	It is your job to stop the evil emperor and destroy both the portal 
+and the emperor along with it. You will travel among the lands of Eiden 
+from town to town to the location of the portal, meeting new friends and 
+making twice as many enemies along the way.
+
+Starting Characters
+Choices
+
+1. Mage 
+	- Strengths - Has good magic atk
+	    	    - Has good magic def
+	    	    - Mp costs is lower
+
+	- Weaknesses - Has low physical atk
+	     	     - Has low physical def 
+
+2. Warrior
+
+	- Strengths - Has good physical atk
+            	    - Has good physical def
+	
+	- Weaknesses – Has low magic def
+	     	     - Has no magic abilites
+	
+Beginning Skills
+
+1. Mage
+     
+     Magic
+	-White Magic
+	1. Cure Lv1. – Cures the target for a small amount
+
+	-Black Magic
+	1. Fire Lv1. - Atks enemy with low level fire dmg
+	2. Ice Lv1. - Atks enemy with low level ice dmg
+	3. Lightning Lv1. - Atks enemy with low level lightning damage
+
+2. Warrior
+
+      Physical
+      1. Crush Lv1. - Atks enemy with higher dmg that normal atk
+      2. Dash Lv1. - Dash at the enemy causing dmg, and skipping their next turn

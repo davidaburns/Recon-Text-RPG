@@ -1,0 +1,13 @@
+- Player Stats
+
+- Weapon/Armor/Item Template (what stats to have)
+	- Needed in order to know what to load from a file, and how to set up the file
+
+- File Template (how data is to be order in a file)
+	- EX: 
+		"Items"
+		Type Name StatAffected StatAmount PriceBuy PriceSell
+
+		Ex: "Potion"
+		2(Stat Effector) "Potion" 01(HP) +50(adds 50 to HP) 75 25
+		

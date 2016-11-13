@@ -1,0 +1,8 @@
+[TestShop]
+1
+[END SHOP]
+
+[TestShop2]
+1
+2
+[END SHOP]

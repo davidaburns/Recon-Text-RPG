@@ -1,0 +1,17 @@
+[1000]
+TestItem1
+0
+50
+100
+1
+Just a Template Item to test if things work
+[END ITEM]
+
+[1100]
+TestItem2
+1
+0
+25
+5
+Test item2, just a place holder description
+[END ITEM]

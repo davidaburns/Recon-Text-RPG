@@ -1,0 +1,44 @@
+--------------
+Format
+
+
+[Id]
+Name
+Size (0 for small/medium; 1 for large)
+Type (0: Type Not Set; 1: Consumable; 2: Equip; 3: Misc; 50: KeyItem; default: Unkown Type
+Cost
+Description
+[END ITEM]
+
+
+
+----------------
+
+
+
+[1]
+TestItem1
+0
+50
+100
+1
+Just a Template Item to test if things work
+[END ITEM]
+
+[2]
+TestItem2
+1
+0
+25
+5
+Test item2, just a place holder description
+[END ITEM]
+
+[5000]
+Letter to the king
+1
+50
+0
+0
+Bring this to the king immediatly!
+[END ITEM]

@@ -1,0 +1,22 @@
+Weapons level 1 
+
+Melee Weapons 
+
+Small Sword
+ - 2 strength
+ - Desc; Small agile sword, effective in close range combat.
+
+BroadSword(Two-handed)
+ - 3 Strength
+ - Desc; Large sword, stronger but requires two hands to weild
+
+Magic weapons
+
+Book of lesser magics
+ - 2 Magical attack
+ - Desc; A book of low level magical attacks
+
+Staff of lesser magics (Two-Handed)
+
+ - 3 Magical Attack
+ - Desc; A big staff requiring both hands to attack with.

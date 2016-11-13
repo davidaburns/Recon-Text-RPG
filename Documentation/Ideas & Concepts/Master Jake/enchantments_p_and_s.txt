@@ -1,0 +1,15 @@
+Enchantments:
+
+Suffixes:
+
+of the Fox - adds to the speed of the object
+DESC: You will be able to attack faster if a weapon
+receives this prefix.
+
+of the Light - adds to the object's "good" alignment
+DESC: If your alignment is good, you will gain extra power
+by wielding a weapon that is enchanted to be good.
+
+of the Storm - adds to the object's "evil" alignment
+DESC: If your aligment is evil, you will gain extra power
+by wielding a weapon that is enchanted to be evil.

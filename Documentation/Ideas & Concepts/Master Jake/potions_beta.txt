@@ -1,0 +1,35 @@
+[Minor Health Potion]
+Heals 10 HP
+
+[Minor Mana Potion]
+Heals 10 Mana
+
+[Minor Duplex Potion]
+Heals 10 HP AND 10 Mana
+
+[Health Potion]
+Heals 25 HP
+
+[Mana Potion]
+Heals 25 Mana
+
+[Duplex Potion]
+Heals 25 HP AND 25 Mana
+
+[Major Health Potion]
+Heals 100 HP
+
+[Major Mana Potion]
+Heals 100 Mana
+
+[Major Duplex Potion]
+Heals 100 HP AND 100 Mana
+
+[Jumbo Health Potion]
+Heals 250 HP
+
+[Jumbo Mana Potion]
+Heals 250 Mana
+
+[Jumbo Duplex Potion]
+Heals 250 HP AND 250 Mana

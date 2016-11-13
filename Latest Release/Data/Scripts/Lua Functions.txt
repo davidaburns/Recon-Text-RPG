@@ -1,0 +1,21 @@
+A list of the Lua functions available to make Lua scripts.
+
+~GameFunctions~
+
+DialogText()
+
+-Takes one string argument as the text to output on the screen
+in dialog format (Outputting one letter at a time to emulate a conversation)
+	
+	E.x. DialogText("Hello, my name is David\n")
+
+DisplayMenu()
+
+-Takes multiple string argument as the menu items. It outputs the arguments in a 
+menu format.
+
+	E.x. DisplayMenu("Buy", "Sell")
+	
+	Outputs:
+		. Buy
+		. Sell
